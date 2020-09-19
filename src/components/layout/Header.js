@@ -4,6 +4,7 @@ import classNames from 'classnames';
 import { Link } from 'react-router-dom';
 import Logo from './partials/Logo';
 
+
 const propTypes = {
   navPosition: PropTypes.string,
   hideNav: PropTypes.bool,
